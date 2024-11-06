@@ -8,9 +8,6 @@ TechSpace é uma plataforma intuitiva para reserva de salas de computadores e la
 - Notificações de Reservas: Confirmações e lembretes de reservas por e-mail ou notificação interna.
 - Gestão de Horários e Cancelamentos: Opção para alterar ou cancelar reservas de maneira fácil e rápida.
 ## Tecnologias Utilizadas
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- Banco de Dados: MongoDB
-- Autenticação: JWT (JSON Web Tokens)
-- Notificações: Serviço de e-mail (ex: SendGrid) e notificações push
-- Hospedagem: [Nome da plataforma de hospedagem] (ex: AWS, Heroku)
+- Frontend: React, HTML, CSS, JavaScript;
+- Backend: Python;
+- Banco de Dados: MongoDB;
